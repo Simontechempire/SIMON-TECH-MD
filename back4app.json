@@ -1,0 +1,10 @@
+{
+  "name": "simon-tech-md",
+  "description": "SIMON TECH MD PERMANENT - NO 60s EXPIRY",
+  "stack": "node18",
+  "port": 3000,
+  "env": {
+    "NODE_VERSION": "18",
+    "PORT": "3000"
+  }
+}
