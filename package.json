@@ -1,0 +1,13 @@
+{
+  "name": "simon-tech-md",
+  "version": "3.0.0",
+  "description": "SIMON TECH MD - Permanent Back4app Edition",
+  "main": "index.js",
+  "scripts": { "start": "node index.js" },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.10",
+    "express": "^4.18.2",
+    "pino": "^8.17.2",
+    "ws": "^8.16.0"
+  }
+}
