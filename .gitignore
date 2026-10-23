@@ -1,4 +1,7 @@
-node_modules
-auth
+node_modules/
+auth/*
+!auth/.gitkeep
 *.log
 .env
+.DS_Store
+npm-debug.log*
